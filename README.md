@@ -3,7 +3,7 @@
 
 ## Description
 
-The app scrap four websites, giving us the name, the size of each in bytes, the JS dependencies that contain and the currencies of those dependencies.
+The app scrap four websites, giving us the name, the size of each in bytes, the JS dependencies that contain and the ocurrencies of those dependencies.
 
 
 
